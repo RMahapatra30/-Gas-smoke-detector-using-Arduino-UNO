@@ -1,1 +1,1 @@
-# -Gas-smoke-detector-using-Arduino UNO
+# Gas-smoke-detector-using-Arduino UNO
